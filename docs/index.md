@@ -9,7 +9,7 @@ hide:
 
 -------------------------------
 
-### [ ❤️ 3D - 123D Design 基本操作 (1節) ](123d_design_basic/index.md)
+### [ ❤️ 3D - 123D Design 基本操作 ](123d_design_basic/index.md)
 
 -------------------------------
 
