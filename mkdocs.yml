@@ -1,0 +1,40 @@
+site_name: 南門國小 - 數位創客課程
+
+
+nav:
+  - Home: 'index.md'
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - admonition
+  - footnotes
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+theme:
+  name: material
+  language: zh-TW
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    
+    - navigation.instant
+    - navigation.indexes
