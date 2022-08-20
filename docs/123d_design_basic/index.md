@@ -7,6 +7,24 @@ hide:
 # ❤️ 3D - 123D Design 基本操作
 
 
+??? info "軟體下載(windows版)"
+
+    : :fontawesome-solid-link: <a href="https://inplus.tw/archives/10629" target="_blank">輕巧好上手的123D Design最終版下載</a>
+
+??? info "參考影片 - 造型設計教學"
+
+    : :fontawesome-solid-link: <a href="https://www.youtube.com/watch?v=CeyTDpxB0sQ" target="_blank">123D Design手裡劍造型</a>
+
+    : :fontawesome-solid-link: <a href="https://www.youtube.com/watch?v=PJ3mCBwNHlM" target="_blank">123D Design船</a>
+
+    : :fontawesome-solid-link: <a href="https://www.youtube.com/watch?v=WzYIGt7AdR0" target="_blank">123D Design形狀玩具</a>
+
+    : 也可自行到youtube搜尋
+
+??? example "操作熱鍵"
+
+    : :fontawesome-solid-link: <a href="https://inplus.tw/archives/847" target="_blank">123D DesignHot Key熱鍵列表</a>
+
 ### 🔹 3D的應用
 
 ----------------------------
@@ -127,3 +145,55 @@ Blender Guru, [youtube連結](https://youtu.be/VT5oZndzj68)
 : ![智慧型縮放](scale.jpg)
 
 <br/> 
+
+-------------------------------
+
+### 🔹 物件顏色與材質 
+
+----------------------------
+
+電腦的顯示器，將不同強度的紅、綠、藍色光混合來生成不同的顏色，這就是RGB三原色的加色法，但這種顏色對大多數人來說並不直覺，比如我們很難直接判斷出橘色的RGB比例。
+
+HSV是另一種色彩的模型，它代表的是色相、飽和度與明度。以人類更熟悉的方式來表達顏色：「這是什麼顏色？深淺如何？明暗如何？」。
+
+
+: ![hsv色彩空間](hsv_color_space.jpg)
+
+: <sup>(資料來源:</sup>[^hsv_color]<sup>)</sup>
+
+[^hsv_color]: HSL和HSV色彩空間, [維基百科連結](https://zh.wikipedia.org/zh-tw/HSL%E5%92%8CHSV%E8%89%B2%E5%BD%A9%E7%A9%BA%E9%97%B4)
+
+
+<br/> 
+
+: 在123D Design中，可以改變物件的顏色及材質
+
+: 點選物體後，選「material」
+
+: ![顏色及材質按鈕](material_button.jpg)
+
+<br/> 
+
+
+: 下圖中，右方色環可調整顏色，左方可改變材質紋理
+
+: ![顏色及材質](material_and_color.jpg)
+
+
+<br/> <br/> 
+
+-------------------------------
+
+### 🔸 儲存檔案 
+
+----------------------------
+
+: 設計的作品，要儲存檔案，才能長久保存
+
+: 從左上角選單，找到「Save」，點選「To My Computer」
+
+: ![儲存檔案](save_file.jpg)
+
+
+
+<br/> <br/>
