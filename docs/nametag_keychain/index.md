@@ -8,7 +8,7 @@ hide:
 
 -------------------------------
 
-## 🔹 姓名鑰匙圈 - 中文 
+### 🔹 **中文姓名鑰匙圈** 
 
 ----------------------------
 
@@ -16,7 +16,7 @@ hide:
 
 : 以下是學生的姓名鑰匙圈設計作品：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7DDGD-OoAzA?start=368&amp;end=444" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/7DDGD-OoAzA?start=368&amp;end=444" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
@@ -30,7 +30,7 @@ hide:
 -------------------------------
  
 
-### **打洞練習**
+### 🔸 **打洞練習**
 
 ----------------------------
 
@@ -91,7 +91,7 @@ hide:
 -------------------------------
  
 
-### **文字草圖**
+### 🔹 **文字草圖**
 
 ----------------------------
 
@@ -134,7 +134,10 @@ hide:
 
 <br/><br/>
 
-注意！若有發生以下筆劃重疊的情形，請重新編輯文字並切換粗體。
+
+
+
+注意！若有發生以下筆劃重疊的情形，請重新編輯文字並切換取消粗體。
 
 
 : ![文字設計](fix_bold_intersect.jpg)
@@ -150,7 +153,7 @@ hide:
 -------------------------------
  
 
-### **擠出成形**
+### 🔸 **擠出成形**
 
 ----------------------------
 
@@ -175,38 +178,153 @@ hide:
 
 : ![隱藏草圖](hide_sketch.jpg)
 
+
+
+
+
+<br/><br/><br/>
+
+
+
+-------------------------------
+ 
+
+### 🔹 **打洞設計**
+
+----------------------------
+
+因為鑰匙圈的裝飾，會以鐵環或珠鏈穿過，所以接下來要來打洞，但是洞的位置要打在哪裡呢？
+
+
+: ![洞的位置](hole_position.jpg)
+
+<br/><br/>
+
+鐵環或珠鏈的直徑大約是2.5mm左右，所以洞的直徑3mm就可以了。
+
+: ![洞的直徑](hole_diameter.jpg)
+
+
+<br/><br/><br/>
+
+
+-------------------------------
+ 
+
+### 🔸 **鏤空補線**
+
+----------------------------
+
+: 姓名鑰匙圈裝飾是一種鏤空設計。什麼是鏤空呢？
+
+: ![鏤空](hollow_out.jpg)
+
+: <sup>( 資料來源:</sup>[^hollow_out]<sup>)</sup>
+
+[^hollow_out]:教育部《重編國語辭典修訂本》2021, https://dict.revised.moe.edu.tw
+
 <br/><br/>
 
 
+: 在藝文課的紙雕勞作中，常常可以看到鏤空的設計。
+
+: ![紙雕](paper_art.jpg)
+
+: <sup>( 資料來源:</sup>[^paper_art]<sup>)</sup>
+
+[^paper_art]:國父紀念館-生活美學班-剪綾紙-剪紙-紙雕, https://kiki32303.wordpress.com/2021/02/03/%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8-%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8%E7%8F%AD-%E5%89%AA%E7%B6%BE%E7%B4%99-%E5%89%AA%E7%B4%99-%E7%B4%99%E9%9B%95/
+
+<br/><br/>
+
+
+: 在街道上的廣告看板，經由鏤空設計，變成美麗的燈箱。
+
+
+: ![燈箱](hollow_out_product.jpg)
+
+: <sup>( 資料來源:</sup>[^hollow_out_product]<sup>)</sup>
+
+[^hollow_out_product]:京鼎設計有限公司 | 專業廣告招牌, http://www.jd-ad.com.tw/index-f1.html
+
+
+
+<br/><br/>
+
+: 鏤空的設計可能會發生如下圖的情形，要如何避免呢？
+
+: ![如何避免？](seperate_thinking.jpg)
+
+
+<br/><br/>
+
+
+: 我們使用細的「補線」，讓鏤空的筆劃不會分開。
+
+
+: ![連接](part_connect.jpg)
+
+
+
 
 <br/><br/><br/>
-
-
 
 -------------------------------
  
 
-### **打洞設計**
+### 🔹 **姓名鑰匙圈與3D列印**
 
 ----------------------------
 
+設計好的姓名鑰匙圈，可以用3D列印的方式做出成品。看看3D列印是如何做出姓名鑰匙圈。
 
-建構中…
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yK8oNDNSlvw?start=173&amp;end=352" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br/><br/><br/>
 
 
 -------------------------------
- 
 
-### **鏤空補線**
+### 🔸 **延伸設計 英文姓名鑰匙圈** 
 
 ----------------------------
 
+: 如果要設計英文的姓名鑰匙圈裝飾，要怎麼設計呢？
 
-建構中…
+: 參考下面的幾種形式，說說看，這些設計有什麼不同：
+
+: ![英文設計範例1](english_nametag_example1.jpg)
+
+<br/>
+
+: ![英文設計範例2](english_nametag_example2.jpg)
+
+<br/>
+
+: ![英文設計範例3](english_nametag_example3.jpg)
+
+: <sup>( 資料來源:</sup>[^nametag_design]<sup>)</sup>
+
+[^nametag_design]:https://www.etsy.com/uk/market/name_tag
+
+<br/><br/>
+
+
+: 想一想，依前面學到的經驗，在設計英文姓名鑰匙圈，需要注意什麼？
+
+: * 大小尺寸
+
+: * 字體選擇
+
+: * 穿洞設計
+
+: * 有無需要連接
+
+: 動手做做看，設計出獨一無二的英文姓名鑰匙圈。
+
+
+
 
 
 <br/><br/><br/>
-
