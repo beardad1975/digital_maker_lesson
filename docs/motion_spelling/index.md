@@ -84,7 +84,23 @@ hide:
 : ![spell_anime](spell_anime.gif)
 
 <br/>
+
+: 請利用以下的積木做出「逐字說出」，如果加上音效會更好哦。
+
+
+: ![speak_gradually_block](speak_gradually_block.png)
+
 <br/>
+<br/>
+
+: 為了讓畫面更活潑，可以切換主角的造型，請用下方的積木做做看。
+
+: ![dog_anime](dog_anime.gif)
+
+<br/>
+<br/>
+<br/>
+
 
 -------------------------------
 
@@ -104,6 +120,34 @@ hide:
 ## 🔸 視訊攝影機
 
 ----------------------------
+
+: Scratch的攝影機功能，要從Scratch左下方的擴展功能裡面，找到視訊偵測。
+
+: ![extension_video_dectection](extension_video_dectection.png)
+
+
+<br/>
+
+
+: 將視訊開啟後，可以得到鏡像的影像。也可以使用積木，將視訊翻轉。
+
+: 想一想，以下兩種影像，有什麼不同的特性呢？
+
+
+: ![video_mirror_setup](video_mirror_setup.png)
+
+: 現代的智慧型手機，都會配有兩個鏡頭，這兩個鏡頭在什麼時候會用到呢？
+
+
+: ![phone_two_dc](phone_two_dc.png)
+
+<br/>
+<br/>
+
+: 我們也可以利用積木來改變視訊影像的透明度，以下是不同透明度的效果。當攝影機影像越透明，原來的背景就會更清楚。
+
+
+: ![transparent_alpha](transparent_alpha.png)
 
 
 <br/>
@@ -127,11 +171,43 @@ hide:
 
 ----------------------------
 
+: 當積木的程式由上而下接起來時，程式是循序執行的。
+
+: 但是如果有多個角色時，程式的順序會如何呢？Scratch提供了「廣播通訊」，讓不同角色的程式可以連結起來，通訊的對象可以是一對一、一對多、自己對自己。
+
+: 在本遊戲中，按下綠旗開始後，會先執行「拼字題目」階段，經由廣播進入「遊戲開始」階段。
+
+
+: ![sequence_communication](sequence_communication.png)
 
 <br/>
 <br/>
 
+: 利用視訊動作值，我們可以知道是否有體感動作發生。
 
+: ![motion_detection](motion_detection.png)
+
+
+<br/>
+<br/>
+
+: 當體感動作發生時，讓字母產生變化，就會有虛實互動的感覺。如果再加上不同的顏色、大小、音效變化效果，互動性會更加提高。
+
+: ![motion_handler](motion_handler.png)
+
+<br/>
+<br/>
+
+: 字母一直在原地不動，會沒有挑戰性。想一想，如何利用以下的積木讓字母動起來呢？
+
+: ![letter_moving](letter_moving.png)
+
+
+
+: 可以試著複製出題目中所有的字母。
+
+<br/>
+<br/>
 -------------------------------
 
 ### 📌 範例程式3  
